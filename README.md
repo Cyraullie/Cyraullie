@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![<cgoldens>'s 42 stats](https://badge.mediaplus.ma/darkblue/<cgoldens>)](https://github.com/oakoudad/badge42)
+[![cgoldens's 42 stats](https://badge.mediaplus.ma/darkblue/cgoldens?1337Badge=off)](https://github.com/oakoudad/badge42)
 <!--
 **Cyraullie/Cyraullie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
