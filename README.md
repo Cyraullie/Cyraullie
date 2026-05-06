@@ -1,5 +1,5 @@
 # Hi, I'm Cyril 👋
-[![akabbaj's 42 stats](https://badge.mediaplus.ma/darkblue/cgoldens?1337Badge=off&UM6P=off)](https://profile-v3.intra.42.fr/users/cgoldens)
+[![cgoldens's 42 stats](https://badge.mediaplus.ma/darkblue/cgoldens?1337Badge=off&UM6P=off)](https://profile-v3.intra.42.fr/users/cgoldens)
 
 #### About Me
 I am a software development student at 42 Lausanne with a focus on low-level programming and systems development.  
