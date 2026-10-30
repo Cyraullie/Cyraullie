@@ -6,7 +6,7 @@
 
 I'm a web developer student at 42 Lausanne, focused on **backend and fullstack web development**. I build with PHP/Laravel, Node.js and Python/Django, and I have professional experience shipping features for real clients (Ville de Lausanne, Nextep). My 42 curriculum also gave me a solid low-level foundation (C/C++, networking, systems programming — I built a web server and a Unix shell from scratch), which helps me understand what's happening under the hood of the frameworks I use.
 
-Currently looking for a **backend/fullstack internship**.
+Looking for a 4–6 month **backend/fullstack internship** in French-speaking Switzerland.
 
 ---
 
@@ -14,19 +14,20 @@ Currently looking for a **backend/fullstack internship**.
 
 - 💼 **Ville de Lausanne** — Fullstack Web Developer (Laravel/PHP, API integration, HTML/CSS/JS)
 - 💼 **Nextep** — Mobile Developer (React Native + Laravel API)
-- 💼 **Bobst Groupe** — IT
+- 💼 **Bobst Groupe** — IT setup windows laptop
 
 ---
 
 #### Educational Projects
 
-📂 [42 Projects](https://github.com/stars/Cyraullie/lists/42-projects)
+📂 [42 Projects](https://github.com/stars/Cyraullie/lists/42-projects)<br/>
+[42 web project](https://github.com/Popcode-The-playing-card-corporation/transcendence) / [website](popcards.popcode.ch) — the final École 42 common-core project (fullstack web app: real-time gameplay, user management, backend API)
 
 ---
 
 #### Currently Working On
 
-- **42_Transcendence** — the final École 42 common-core project (fullstack web app: real-time gameplay, user management, backend API)
+- **pollpwa** — an poll app to improve my laravel skill and improve my knowledge from PWA
 
 ---
 
@@ -65,4 +66,5 @@ Currently looking for a **backend/fullstack internship**.
 - Email: [cyril.goldenschue@gmail.com](mailto:cyril.goldenschue@gmail.com)
 
 ---
+
 This is a work in progress — more to come soon.
