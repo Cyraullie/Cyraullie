@@ -1,33 +1,45 @@
-# Hi, I'm Cyril 👋
+# Salut, moi c'est Cyril 👋
+
+_Student at 42 Lausanne looking for a 4–6 month backend/fullstack web internship in French-speaking Switzerland._
 
 [![cgoldens's 42 stats](https://badge.mediaplus.ma/darkblue/cgoldens?1337Badge=off&UM6P=off)](https://profile-v3.intra.42.fr/users/cgoldens)
 
-#### About Me
+#### À propos
 
-I'm a web developer student at 42 Lausanne, focused on **backend and fullstack web development**. I build with PHP/Laravel, Node.js and Python/Django, and I have professional experience shipping features for real clients (Ville de Lausanne, Nextep). My 42 curriculum also gave me a solid low-level foundation (C/C++, networking, systems programming — I built a web server and a Unix shell from scratch), which helps me understand what's happening under the hood of the frameworks I use.
+Étudiant à **42 Lausanne**, je me spécialise dans le **développement web backend et fullstack**. Titulaire d'un **CFC d'informaticien**, j'ai déjà livré des fonctionnalités pour de vrais clients (Ville de Lausanne, Nextep) avec **PHP/Laravel**, et je travaille aussi avec Node.js, React et Python/Django. Le cursus de 42 m'a donné de solides bases en C/C++ (par exemple avec un shell Unix écrit de zéro), ce qui m'aide à comprendre ce qui se passe sous le capot des frameworks que j'utilise.
 
-Looking for a 4–6 month **backend/fullstack internship** in French-speaking Switzerland.
-
----
-
-#### Professional Experience
-
-- 💼 **Ville de Lausanne** — Fullstack Web Developer (Laravel/PHP, API integration, HTML/CSS/JS)
-- 💼 **Nextep** — Mobile Developer (React Native + Laravel API)
-- 💼 **Bobst Groupe** — IT setup windows laptop
+🔎 **Je recherche un stage de 4 à 6 mois en développement backend / fullstack web en Suisse romande.**
 
 ---
 
-#### Educational Projects
+#### Distinctions
 
-📂 [42 Projects](https://github.com/stars/Cyraullie/lists/42-projects)<br/>
-[42 web project](https://github.com/Popcode-The-playing-card-corporation/transcendence) / [website](popcards.popcode.ch) — the final École 42 common-core project (fullstack web app: real-time gameplay, user management, backend API)
+- 🥇 1re place, Hackathon Audemars Piguet (2025)
+- 🥈 2e place, Hackathon PME Boost (2025)
+- 🤖 Participation au Hackathon IA Innovation (2025)
 
 ---
 
-#### Currently Working On
+#### Expériences professionnelles
 
-- **pollpwa** — an poll app to improve my laravel skill and improve my knowledge from PWA
+- 💼 **Ville de Lausanne**, développeur web fullstack (Laravel/PHP, intégration d'API, HTML/CSS/JS)
+- 💼 **Nextep**, développeur mobile (application React Native + API Laravel)
+- 💼 **Bobst Groupe**, informaticien
+
+---
+
+#### Projets
+
+📂 [Projets 42](https://github.com/stars/Cyraullie/lists/42-projects)
+
+<!--
+Quand tes projets web sont publics, décommente cette section et ajoute les liens :
+
+- **Sondages (PWA)** : application de sondages avec comptes utilisateurs et notifications push à la création d'un sondage. [lien]
+- **Bot Discord Aion 2** : bot pour le jeu Aion 2 (patch notes, infos de personnage). [lien]
+-->
+
+**Terminé :** 42_Transcendence, le projet final du tronc commun de 42 (application web fullstack).
 
 ---
 
@@ -48,7 +60,7 @@ Looking for a 4–6 month **backend/fullstack internship** in French-speaking Sw
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Systems & Tools
+#### Systèmes & outils
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -62,9 +74,5 @@ Looking for a 4–6 month **backend/fullstack internship** in French-speaking Sw
 
 #### Contact
 
-- LinkedIn: [https://www.linkedin.com/in/cyril-goldenschue/](https://www.linkedin.com/in/cyril-goldenschue/)
-- Email: [cyril.goldenschue@gmail.com](mailto:cyril.goldenschue@gmail.com)
-
----
-
-This is a work in progress — more to come soon.
+- LinkedIn : [cyril-goldenschue](https://www.linkedin.com/in/cyril-goldenschue/)
+- Email : [cyril.goldenschue@gmail.com](mailto:cyril.goldenschue@gmail.com)
